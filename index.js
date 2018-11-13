@@ -1,3 +1,3 @@
 const la = 1
 const he = 3
-const lala= 1
+const lado = 2
